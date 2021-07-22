@@ -2,4 +2,10 @@
 A real time chat made with Node JS and Socket.io
 
 
-You can test it by going to localhost:3000. The chat information will remain as long as the Node is working.
+- To test open Node at root. type node server.js
+
+- Open in localhost:3000
+
+the chat information will remain as long as the node is working.
+
+
