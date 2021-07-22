@@ -6,6 +6,6 @@ A real time chat made with Node JS and Socket.io
 
 - Open in localhost:3000
 
-the chat information will remain as long as the node is working.
+The chat information will remain as long as the node is working.
 
 
